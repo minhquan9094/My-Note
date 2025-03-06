@@ -9,7 +9,8 @@ https://github.com/open-webui/open-webui?ref=selfh.st
 ### Netalertx
 https://github.com/jokob-sk/NetAlertX?ref=selfh.st
 
-
+### Security
+https://trivy.dev/latest/getting-started/
 
 
 ### Python
